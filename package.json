@@ -1,0 +1,23 @@
+{
+  "name": "trybe.bloco4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Conteudo4.1.1.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davisoaresc/Trybe.bloco4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davisoaresc/Trybe.bloco4/issues"
+  },
+  "homepage": "https://github.com/davisoaresc/Trybe.bloco4#readme"
+}
